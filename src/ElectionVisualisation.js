@@ -38,6 +38,7 @@ class ElectionVisualisation extends React.Component {
                         frames={this.state.frames}
                         onSliderChange={(slider) => {this.setSelectedIndexFromSliderChange(slider); }}
                         config={{displayModeBar: false, responsive: false, autosizable: true}}
+                        onLegendClick={function() {return false}}
                     />
                 </div>
 
