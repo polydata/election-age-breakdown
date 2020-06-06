@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/election-age-breakdown/precache-manifest.d8a97e282fc7e193b624a5c1135ff7db.js"
+  "/election-age-breakdown/precache-manifest.025bdf1bd3f929d603d1322d8b5e9bdc.js"
 );
 
 self.addEventListener('message', (event) => {
