@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d71f54591629ca87e4a7f296d05e8146",
+    "revision": "c50b79e39d443c0f8540794dcf305a3a",
     "url": "/election-age-breakdown/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "cf191a0d5fb1790bf72d",
-    "url": "/election-age-breakdown/static/css/main.b8eaf1db.chunk.css"
+    "revision": "c71c58f387e6bf8fd878",
+    "url": "/election-age-breakdown/static/css/main.48f23a90.chunk.css"
   },
   {
     "revision": "362f690f24d5cb25dfa0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/js/2.f865498d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf191a0d5fb1790bf72d",
-    "url": "/election-age-breakdown/static/js/main.d87d9b93.chunk.js"
+    "revision": "c71c58f387e6bf8fd878",
+    "url": "/election-age-breakdown/static/js/main.bec9d673.chunk.js"
   },
   {
     "revision": "c381edd0e4e1eb954854",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/media/2001.1659cae0.png"
   },
   {
-    "revision": "6f494df53e21602b5f9cd97802d529fc",
-    "url": "/election-age-breakdown/static/media/2005.6f494df5.png"
+    "revision": "1b73a129c2c8a79d803ec4debb445dbb",
+    "url": "/election-age-breakdown/static/media/2005.1b73a129.png"
   },
   {
-    "revision": "edbfe4fd250debdd74295835d511a7f9",
-    "url": "/election-age-breakdown/static/media/2010.edbfe4fd.png"
+    "revision": "81fa100bf8646fa246b0257669e5b902",
+    "url": "/election-age-breakdown/static/media/2010.81fa100b.png"
   },
   {
     "revision": "a79106238a7d964fa489f3016304ba6c",

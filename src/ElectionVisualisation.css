@@ -72,3 +72,8 @@ img {
     height: auto;
 }
 
+.carousel-item {
+    transition: transform 2.5s ease-in-out;
+    transition-property: transform;
+    transition-duration: 2.5s;
+}
