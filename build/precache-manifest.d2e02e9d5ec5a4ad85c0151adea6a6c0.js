@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c50b79e39d443c0f8540794dcf305a3a",
+    "revision": "c6ca736d56a55f9ab49ab4156e5cc976",
     "url": "/election-age-breakdown/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "c71c58f387e6bf8fd878",
-    "url": "/election-age-breakdown/static/css/main.48f23a90.chunk.css"
+    "revision": "c9afa4a7fb60d05c3ca1",
+    "url": "/election-age-breakdown/static/css/main.8b34a713.chunk.css"
   },
   {
     "revision": "362f690f24d5cb25dfa0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/js/2.f865498d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c71c58f387e6bf8fd878",
-    "url": "/election-age-breakdown/static/js/main.bec9d673.chunk.js"
+    "revision": "c9afa4a7fb60d05c3ca1",
+    "url": "/election-age-breakdown/static/js/main.9e6218e9.chunk.js"
   },
   {
     "revision": "c381edd0e4e1eb954854",
