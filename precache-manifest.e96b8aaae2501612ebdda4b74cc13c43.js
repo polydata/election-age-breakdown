@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ca736d56a55f9ab49ab4156e5cc976",
+    "revision": "9a2a062bcbaea0186207ddd349a7b3cc",
     "url": "/election-age-breakdown/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "c9afa4a7fb60d05c3ca1",
-    "url": "/election-age-breakdown/static/css/main.8b34a713.chunk.css"
+    "revision": "47958e46512ac9550d4c",
+    "url": "/election-age-breakdown/static/css/main.78d6cd43.chunk.css"
   },
   {
     "revision": "362f690f24d5cb25dfa0",
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-age-breakdown/static/js/2.f865498d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9afa4a7fb60d05c3ca1",
-    "url": "/election-age-breakdown/static/js/main.9e6218e9.chunk.js"
+    "revision": "47958e46512ac9550d4c",
+    "url": "/election-age-breakdown/static/js/main.49fedc89.chunk.js"
   },
   {
     "revision": "c381edd0e4e1eb954854",
     "url": "/election-age-breakdown/static/js/runtime-main.c7c5630e.js"
   },
   {
-    "revision": "bf08d0b76682956e19924dab94653b31",
-    "url": "/election-age-breakdown/static/media/1997.bf08d0b7.png"
+    "revision": "6cf60d201c8772011f766f389e01a9cd",
+    "url": "/election-age-breakdown/static/media/1997.6cf60d20.png"
   },
   {
-    "revision": "1659cae0b4bcba91005c6d36368d1e86",
-    "url": "/election-age-breakdown/static/media/2001.1659cae0.png"
+    "revision": "8b6c2da8cfbd748b9bf34f6582c31d76",
+    "url": "/election-age-breakdown/static/media/2001.8b6c2da8.png"
   },
   {
-    "revision": "1b73a129c2c8a79d803ec4debb445dbb",
-    "url": "/election-age-breakdown/static/media/2005.1b73a129.png"
+    "revision": "86bfa53a93cc5f3ddb49b43e92f9e443",
+    "url": "/election-age-breakdown/static/media/2005.86bfa53a.png"
   },
   {
     "revision": "81fa100bf8646fa246b0257669e5b902",
