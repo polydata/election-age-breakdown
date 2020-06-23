@@ -29,6 +29,7 @@ class ElectionVisualisation extends React.Component {
     render() {
         return (
             <div class="row" style={{width: '100%', height:'100%'}}>
+                <div class="colu-0">UK Election Demographics App</div>
                 <div class="colu-1">
                     <Plot
                         style={{width:'100%', height:'100%'}}
